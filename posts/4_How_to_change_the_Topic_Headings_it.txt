@@ -1,0 +1,12 @@
+posted=2021-07-24 18:16:40
+titlestr=4. How to change  the Topic Headings?
+pstarea=a) Open the config.php file and edit the TOPICHEADS and TOPICSORT entries.
+pstuser=admin
+pstgroup=_it
+--------------------------------------
+posted=2021-07-24 18:30:05
+rplyarea=b) There must be same number of entries in both the TOPICHEADS and TOPICSORT  lists.
+c) Each " _code  => _heading " entry should be separated with a comma except the last entry.
+
+rplyuser=admin
+--------------------------------------

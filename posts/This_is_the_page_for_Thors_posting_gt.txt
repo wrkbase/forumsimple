@@ -1,0 +1,29 @@
+posted=2021-07-24 18:19:59
+titlestr=This is the page for Thor's posting.
+pstarea=Thor is welcomed to post about his interests and other relative topics.
+good luck.
+pstuser=thor
+pstgroup=_gt
+--------------------------------------
+posted=2021-07-24 18:24:54
+rplyarea=I have started to post from today march 19th 2021.
+thanks.
+
+I just had a discussion with my father Odin.
+
+--thor.
+rplyuser=thor
+--------------------------------------
+posted=2021-07-24 18:27:09
+rplyarea= will be taking Loki to the dentist on friday for his checkup.
+
+--thor.
+rplyuser=thor
+--------------------------------------
+posted=2021-07-24 18:27:43
+rplyarea=We are back from the dentist and loki and i both had our teeth checked.
+
+--odinson.
+
+rplyuser=thor
+--------------------------------------

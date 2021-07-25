@@ -1,0 +1,17 @@
+posted=2021-07-24 17:40:47
+titlestr=1. How to post meaningful content for easy conception.
+pstarea=Be clear. Avoid esoteric or quasi-legal terms or dumbed-down language.
+Be plain, direct, unambiguous, and specific. 
+pstuser=admin
+pstgroup=_fg
+--------------------------------------
+posted=2021-07-24 17:57:22
+rplyarea=Do not be afraid to tell editors directly they must or should do something.
+Be as concise as possible—but no more concise.
+rplyuser=admin
+--------------------------------------
+posted=2021-07-24 18:00:43
+rplyarea=Verbosity is not a reliable defense against misinterpretation. Omit needless words.
+Emphasize the spirit of the rule. Expect editors to use common sense. If the spirit of the rule is clear, say no more.
+rplyuser=admin
+--------------------------------------

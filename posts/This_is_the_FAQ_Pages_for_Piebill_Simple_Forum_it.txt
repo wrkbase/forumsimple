@@ -1,0 +1,11 @@
+posted=2021-07-24 17:55:33
+titlestr=This is the FAQ Pages for Piebill Simple Forum
+pstarea=1. How to setup your Piebill simple forum?
+2. How to change the Company heading of the Forum?
+3. How to change the default timezone?
+4. How to change  the Topic Headings?
+5. How to delete the post from Piebill Simple Forums ?
+6. How to Sort Topic Headings and Topic Replies?
+pstuser=admin
+pstgroup=_it
+--------------------------------------

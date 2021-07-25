@@ -1,0 +1,21 @@
+posted=2021-07-24 18:25:23
+titlestr=This is Amazing Spidey's posting forum page.
+pstarea=He will be posting on food and other homemade articles forth coming.
+welcome to forum.
+pstuser=spidey
+pstgroup=_gt
+--------------------------------------
+posted=2021-07-24 18:26:01
+rplyarea=Hi, my name is Peter Parker and will be posting in this form from now onwards.
+
+I just got bitten by this spider on monday moring.
+--peter.
+
+rplyuser=spidey
+--------------------------------------
+posted=2021-07-24 18:26:44
+rplyarea=On tuesday I am experiencing a very slight tingle on various incidents happening.
+
+--thanks
+rplyuser=spidey
+--------------------------------------

@@ -1,0 +1,6 @@
+posted=2021-07-24 18:16:03
+titlestr=2. How to change the Company heading of the Forum?
+pstarea=Open the config.php file and assign your value to the $COMPANY variable.
+pstuser=admin
+pstgroup=_it
+--------------------------------------

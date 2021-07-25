@@ -1,0 +1,13 @@
+posted=2021-07-24 17:55:54
+titlestr=1. How to setup your Piebill simple forum?
+pstarea=a) Extract the forumV_No.zip file into your web root folder.
+b) Open the config.php file and assign the proper values and modify the related variables accordingly. They are self-explanatory.
+
+pstuser=admin
+pstgroup=_it
+--------------------------------------
+posted=2021-07-24 18:14:09
+rplyarea=c) Open your Web-Brower and type localhost/forum or 127.0.0.1/forum.
+
+rplyuser=
+--------------------------------------

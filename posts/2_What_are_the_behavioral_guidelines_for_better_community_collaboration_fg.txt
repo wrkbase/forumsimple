@@ -1,0 +1,16 @@
+posted=2021-07-24 17:41:35
+titlestr=2. What are the behavioral guidelines for better community collaboration?
+pstarea=Jump right in! Don't be afraid to get started.
+
+Forums/Wikis are based on the idea that the crowd, collectively, has a greater sum of knowledge than just one individual. 
+pstuser=admin
+pstgroup=_fg
+--------------------------------------
+posted=2021-07-24 17:57:47
+rplyarea=Practice open-mindedness & assume good faith. Since sites are open to postings by anyone, users of all skill levels and opinions are welcome to participate. 
+rplyuser=admin
+--------------------------------------
+posted=2021-07-24 18:01:08
+rplyarea=Be nice. Being friendly and nice goes a long way, no matter where you are. Say hello to others, provide help where you can, and ask others if you need assistance.
+rplyuser=admin
+--------------------------------------

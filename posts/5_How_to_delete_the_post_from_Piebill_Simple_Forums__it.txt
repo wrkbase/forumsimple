@@ -1,0 +1,10 @@
+posted=2021-07-24 18:17:01
+titlestr=5. How to delete the post from Piebill Simple Forums ?
+pstarea=a) Open the posts folder in you WEBROOT/forums/post directory and delete the corresponding .txt file 
+pstuser=admin
+pstgroup=_it
+--------------------------------------
+posted=2021-07-24 18:30:34
+rplyarea=b) Replies can also be deleted individually by editing the .txt files in WEBROOT/forums/post directory and deleting the ----- line and contents below the line.
+rplyuser=admin
+--------------------------------------

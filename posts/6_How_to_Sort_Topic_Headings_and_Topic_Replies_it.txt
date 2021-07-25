@@ -1,0 +1,65 @@
+posted=2021-07-24 18:19:15
+titlestr=6. How to Sort Topic Headings and Topic Replies?
+pstarea=a) Topic Headings and the first no. 1 reply post will always be under the Topic Heading.
+b) Topic Replies are sorted from the no. 2 reply post to the n-th post onwards.
+b) Topic Headings can be sorted in ascending-asc or descending-des order by modifying the TOPICSORT key-value
+pstuser=admin
+pstgroup=_it
+--------------------------------------
+posted=2021-07-24 18:31:43
+rplyarea=e.g:
+ // for ascending Topic Headings from first to last posting date.
+
+TOPICSORT = [
+  _fg => 'asc'
+];
+
+OR
+// for descending Topic Headings from last to first posting date.
+
+TOPICSORT = [
+  _fg => 'des'
+];
+rplyuser=admin
+--------------------------------------
+posted=2021-07-24 18:32:10
+rplyarea=c) Topic Replies can be sorted in ascending-asc or descending-des order by modifying the REPLYSORT key-value
+
+REPLYSORT = [
+  _fg => 'asc'
+];
+
+OR
+// for descending Topic Headings from last to first posting date.
+
+REPLYSORT = [
+  _fg => 'des'
+];
+rplyuser=admin
+--------------------------------------
+posted=2021-07-24 18:32:34
+rplyarea=d) Topic Headings can be sorted in ascending-asc order and Topic Replies can be sorted in descending-des order or vice-versa by modifying the TOPICSORT and REPLYSORT key-value pairs accordingly:
+rplyuser=admin
+--------------------------------------
+posted=2021-07-24 18:32:56
+rplyarea=// for ascending Topic Headings and descending Topic Replies
+TOPICSORT = [
+  _fg => 'asc'
+];
+
+REPLYSORT = [
+  _fg => 'des'
+];
+
+OR
+
+// for descending Topic Headings and ascending Topic Replies
+TOPICSORT = [
+  _fg => 'des'
+];
+
+REPLYSORT = [
+  _fg => 'asc'
+];
+rplyuser=admin
+--------------------------------------

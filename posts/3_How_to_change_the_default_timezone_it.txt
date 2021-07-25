@@ -1,0 +1,7 @@
+posted=2021-07-24 18:16:24
+titlestr=3. How to change the default timezone?
+pstarea=Open the config.php file and keep the line with TMZONE of your zone and remove the other lines with
+TMZONE.
+pstuser=admin
+pstgroup=_it
+--------------------------------------
